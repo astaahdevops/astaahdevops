@@ -2,7 +2,7 @@
 
 # Olá, eu sou André Lucas 👋
 
-### Desenvolvedor Web • DevOps em formação • Cloud & Infraestrutura
+### Desenvolvedor Web • Junior DevOps Engineer • Cloud & Infraestrutura
 
 Construindo uma carreira na interseção entre desenvolvimento, operações e infraestrutura.
 

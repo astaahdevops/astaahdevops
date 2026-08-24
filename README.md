@@ -18,7 +18,7 @@ Construindo uma carreira na interseção entre desenvolvimento, operações e in
 
 Sou formado em **Sistemas de Informação** pelo Centro Metropolitano de Ensino — FAMETRO e tenho experiência como **Desenvolvedor Web** na Secretaria de Estado de Saúde do Amazonas e como **DevOps Engineer Júnior** na Redmaxx Tecnologia.
 
-Meu objetivo é me consolidar como **DevOps Engineer**, com especialização em Cloud e infraestrutura. Busco unir minha experiência em desenvolvimento a práticas de automação, integração contínua e operação de ambientes para entregar soluções confiáveis, organizadas e de qualidade.
+Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimento web, e venho aprofundando minha atuação em Cloud, infraestrutura, automação e práticas de CI/CD. Busco unir minha experiência em desenvolvimento a práticas de automação, integração contínua e operação de ambientes para entregar soluções confiáveis, organizadas e de qualidade.
 
 - 📍 Manaus, Amazonas, Brasil
 - 🚀 Foco profissional em DevOps, Cloud e infraestrutura

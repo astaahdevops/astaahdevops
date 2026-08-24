@@ -27,7 +27,8 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
 
 ## Tecnologias e ferramentas
 
-### Experiência
+### Experiência Prática
+#### Tecnologias e ferramentas com as quais já tive contato prático em ambientes profissionais ou projetos, em diferentes níveis de profundidade.
 
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -36,6 +37,7 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
   <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux_Avan%C3%A7ado-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
 ### Aprofundando conhecimentos
@@ -43,15 +45,16 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
 <div>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux_Avan%C3%A7ado-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
+
+<br>
+
+*Também venho aprofundando conhecimentos em Docker, PostgreSQL e Linux, especialmente em administração, segurança, redes, performance e troubleshooting.*
 
 ## Experiência profissional
 

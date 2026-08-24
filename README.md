@@ -18,7 +18,7 @@ Construindo uma carreira na interseção entre desenvolvimento, operações e in
 
 Sou formado em **Sistemas de Informação** pelo Centro Metropolitano de Ensino — FAMETRO e tenho experiência como **Desenvolvedor Web** na Secretaria de Estado de Saúde do Amazonas e como **DevOps Engineer Júnior** na Redmaxx Tecnologia.
 
-Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimento web, e venho aprofundando minha atuação em Cloud, infraestrutura, automação e práticas de CI/CD. Busco unir minha experiência em desenvolvimento a práticas de automação, integração contínua e operação de ambientes para entregar soluções confiáveis, organizadas e de qualidade.
+Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimento web, e venho aprofundando minha atuação em Cloud, infraestrutura, automação e práticas de CI/CD. Busco evoluir continuamente em Infrastructure as Code, Kubernetes, observabilidade e segurança, unindo minha experiência em desenvolvimento à operação de ambientes confiáveis e escaláveis.
 
 - 📍 Manaus, Amazonas, Brasil
 - 🚀 Foco profissional em DevOps, Cloud e infraestrutura
@@ -33,7 +33,6 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI/CD" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -50,7 +49,7 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Linux_Avan%C3%A7ado-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Avançado" />
+  <img src="https://img.shields.io/badge/Linux_Avan%C3%A7ado-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </div>
 

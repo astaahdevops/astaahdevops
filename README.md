@@ -2,7 +2,7 @@
 
 # Olá, eu sou André Lucas 👋
 
-### Web Developer • Junior DevOps Engineer • Cloud & Infrastructure • Software Engineering
+### Junior DevOps Engineer • Cloud & Infrastructure • Automation
 
 Construindo uma carreira na interseção entre desenvolvimento, operações e infraestrutura.
 
@@ -54,7 +54,7 @@ Atuo como **Junior DevOps Engineer**, com experiência anterior em desenvolvimen
 
 <br>
 
-*Também venho aprofundando conhecimentos em Docker, PostgreSQL e Linux, especialmente em administração, segurança, redes, performance e troubleshooting.*
+#### Também venho aprofundando conhecimentos em Docker, PostgreSQL e Linux, especialmente em administração, segurança, redes, performance e troubleshooting.
 
 ## Experiência profissional
 

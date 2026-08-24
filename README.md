@@ -115,14 +115,28 @@ Estou aberto a oportunidades em diferentes modalidades de trabalho. Procuro um a
 
 ### About me
 
-I hold a degree in **Information Systems** from Centro Metropolitano de Ensino — FAMETRO. My professional background includes experience as a **Web Developer** at the Amazonas State Department of Health and as a **Junior DevOps Engineer** at Redmaxx Tecnologia.
+I hold a degree in **Information Systems** from Centro Metropolitano de Ensino — FAMETRO and have professional experience as a **Web Developer** at the Amazonas State Department of Health and as a **Junior DevOps Engineer** at Redmaxx Tecnologia.
 
-My goal is to grow as a **DevOps Engineer** specializing in Cloud and infrastructure. I aim to combine my development background with automation, continuous integration, and infrastructure practices to deliver reliable, organized, high-quality solutions.
+I currently work as a **Junior DevOps Engineer**, with a previous background in web development, while expanding my experience in Cloud, infrastructure, automation, and CI/CD practices. I am continuously developing my knowledge of Infrastructure as Code, Kubernetes, observability, and security, combining my software development background with the operation of reliable and scalable environments.
 
 - 📍 Based in Manaus, Amazonas, Brazil
-- 🚀 Focused on DevOps, Cloud, and infrastructure
-- 📚 Continuously learning about development and operations
+- 🚀 Professionally focused on DevOps, Cloud, and infrastructure
+- 📚 Continuously learning and improving across development and operations
 - 🤝 Open to remote, hybrid, or on-site opportunities
+
+### Technologies and tools
+
+#### Hands-on experience
+
+Technologies and tools I have worked with in professional environments or personal projects, with different levels of depth and experience.
+
+**PHP • Node.js • Docker • GitLab CI/CD • PostgreSQL • MySQL • Linux**
+
+#### Currently expanding my knowledge
+
+**NestJS • Go • AWS • Azure • Terraform • Ansible • Kubernetes**
+
+I am also deepening my knowledge of **Docker, PostgreSQL, and Linux**, particularly in administration, security, networking, performance, and troubleshooting.
 
 ### Professional experience
 
@@ -137,12 +151,18 @@ My goal is to grow as a **DevOps Engineer** specializing in Cloud and infrastruc
 
 ### Projects and labs
 
-New practical projects and DevOps labs will be published here as I progress through my learning journey. Each project will include its context, architecture, tools, and key takeaways.
+> 🚧 New projects coming soon.
+
+This section will document my progress through practical DevOps projects and hands-on labs. Each project will include its context, architecture, technologies, implementation details, and key lessons learned.
 
 ### Let's connect
 
-I am open to remote, hybrid, and on-site opportunities. I am looking for a healthy environment where I can contribute, keep learning, and grow alongside the team.
+I am open to remote, hybrid, and on-site opportunities. I am looking for a healthy and collaborative environment where I can contribute, continue learning, and grow alongside the team.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/andrelucasfreitas/)
+<div align="center">
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrelucasfreitas/)
+
+</div>
 
 </details>

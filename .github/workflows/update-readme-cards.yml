@@ -1,0 +1,68 @@
+name: Atualizar cards do README
+
+on:
+  # Executa quando este workflow for adicionado ou alterado na branch principal.
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-readme-cards.yml
+
+  # Atualiza os dados diariamente às 06:00 UTC (02:00 em Manaus).
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Permite iniciar a atualização manualmente pela aba Actions do GitHub.
+  workflow_dispatch:
+
+# Impede duas atualizações simultâneas dos mesmos arquivos.
+concurrency:
+  group: update-readme-cards
+  cancel-in-progress: true
+
+jobs:
+  update-cards:
+    name: Gerar e publicar cards
+    runs-on: ubuntu-latest
+
+    # Princípio do menor privilégio: o token só pode alterar o conteúdo do repo.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v6
+
+      - name: Gerar card de estatísticas
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: "username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"
+          path: profile/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Gerar card de linguagens
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: "username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&locale=pt-br"
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Salvar cards atualizados
+        shell: bash
+        run: |
+          git add -- profile/github-stats.svg profile/top-langs.svg
+
+          if git diff --cached --quiet; then
+            echo "Os cards já estão atualizados."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update GitHub profile cards"
+          git push
+

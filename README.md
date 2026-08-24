@@ -69,11 +69,17 @@ Esta seção acompanhará minha evolução com projetos e laboratórios prático
 ## Estatísticas do GitHub
 
 <div align="center">
+
+[![Atualizar cards do README](https://github.com/astaahdevops/astaahdevops/actions/workflows/update-readme-cards.yml/badge.svg)](https://github.com/astaahdevops/astaahdevops/actions/workflows/update-readme-cards.yml)
+
+</div>
+
+<div align="center">
   <a href="https://github.com/astaahdevops">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=astaahdevops&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de André Lucas" />
+    <img height="180" src="./profile/github-stats.svg" alt="Estatísticas do GitHub de André Lucas" />
   </a>
   <a href="https://github.com/astaahdevops">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astaahdevops&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas por André Lucas" />
+    <img height="180" src="./profile/top-langs.svg" alt="Linguagens mais usadas por André Lucas" />
   </a>
 </div>
 
